@@ -3,7 +3,7 @@ import { CircleFlag } from "react-circle-flags";
 
 function NavBar() {
   return (
-    <div className="w-full bg-white px-20 py-6 flex space-x-16 items-center font-medium">
+    <div className="w-full bg-white px-20 py-4 flex space-x-16 items-center font-medium">
       <a href="#">
         <h3 className="text-sm text-cyan-900 hover:-skew-3">Cost Calculator</h3>
       </a>
@@ -14,7 +14,7 @@ function NavBar() {
         <h3 className="text-sm text-cyan-900 hover:-skew-3">Track Orders</h3>
       </a>
 
-      {/* Push right section to the far end */}
+
       <div className="flex items-center space-x-16 ml-auto">
         <a href="#">
           <h3 className="text-sm text-cyan-900 hover:-skew-3">
@@ -29,13 +29,13 @@ function NavBar() {
 
         <a href="#">
           <i
-            className="bx bxl-whatsapp text-3xl"
+            className="bx bxl-whatsapp text-4xl"
             style={{ color: "#25D366" }}
           ></i>
         </a>
 
         <div className="flex justify-center">
-          <span className="flex items-center gap-2 border border-gray-300 rounded-3xl px-4 py-1.5">
+          <span className="flex items-center gap-2 border border-gray-300 rounded-3xl px-4 py-2.5">
             <CircleFlag countryCode="ng" className="w-5 h-5" />
             <h3 className="text-sm font-medium text-cyan-900">Nigeria</h3>
           </span>
