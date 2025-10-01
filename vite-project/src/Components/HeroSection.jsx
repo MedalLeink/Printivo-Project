@@ -3,10 +3,11 @@ import React from "react";
 import Printivo_Logo from "./../assets/printivo_logo.png";
 import Hero_Img from "./../assets/hero_img.png";
 
+// Hero Section
 function HeroSection() {
   return (
     <>
-      <div className="bg-yellow-50 pb-0 pt-4">
+      <div className="bg-yellow-50">
         <div className="w-full px-20 py-6 flex space-x-16 items-center font-medium">
           <img
             src={Printivo_Logo}
@@ -52,14 +53,19 @@ function HeroSection() {
           </div>
         </div>
             <div className="flex pl-20 ">
-                <div className="w-full pt-24">
-                <h1 className="w-full font-[Ubuntu] text-7xl font-semibold text-cyan-900 mb-4">Quality Prints</h1>
-                <p className="text-2xl font-medium text-cyan-900 opacity-70">Shipped to your doorstep</p>
-                <p className="text-2xl font-medium text-cyan-900 opacity-70">What woul you like to. print today</p>
+                <div className="w-full mt-16">
+                <h1 className="w-full font-[Ubuntu] text-7xl font-semibold text-cyan-900 mb-3">Quality Prints</h1>
+                <p className="text-2xl font-medium text-cyan-900 opacity-60 tracking-wide">Shipped to your doorstep</p>
+                <p className="font-semibold text-cyan-900 opacity-95 mt-8">What would you like to print today?</p>
+
+                <span className="w-160 flex bg-white p-8 mt-2">
+                <input type="search" placeholder="Search for Business cards, T-shirts, Mugs, etc" className="w-full text-gray-700 font-light tracking-wide" />
+                <i className="bx bx-search text-2xl text-gray-400"></i>
+                </span>
                 </div>
 
-                <div className="ml-100 mt-20">
-                <img src={Hero_Img} alt="Hero_Image" className="w-350"  />
+                <div className="ml-48 mt-24">
+                <img src={Hero_Img} alt="Hero_Image" className="w-200"  />
                 </div>
             </div>
       </div>

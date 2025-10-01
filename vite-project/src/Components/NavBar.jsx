@@ -3,7 +3,7 @@ import { CircleFlag } from "react-circle-flags";
 
 function NavBar() {
   return (
-    <div className="w-full bg-white px-20 py-4 flex space-x-16 items-center font-medium">
+    <div className="w-full bg-white px-20 py-3 flex space-x-16 items-center font-medium">
       <a href="#">
         <h3 className="text-sm text-cyan-900 hover:-skew-3">Cost Calculator</h3>
       </a>
