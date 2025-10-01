@@ -54,7 +54,8 @@ function HeroSection() {
             <div className="flex pl-20 ">
                 <div className="w-full pt-24">
                 <h1 className="w-full font-[Ubuntu] text-7xl font-semibold text-cyan-900 mb-4">Quality Prints</h1>
-                <p className="text-2xl font-medium text-cyan-900 opacity-60">Shipped to your doorstep</p>
+                <p className="text-2xl font-medium text-cyan-900 opacity-70">Shipped to your doorstep</p>
+                <p className="text-2xl font-medium text-cyan-900 opacity-70">What woul you like to. print today</p>
                 </div>
 
                 <div className="ml-100 mt-20">
