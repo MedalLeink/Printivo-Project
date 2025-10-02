@@ -6,7 +6,7 @@ import PopularProducts from './Components/PopularProducts'
 
 function App() {
   return (
-    <div>
+    <div className='h-1440'>
       <NavBar />
       <HeroSection />
       <PopularProducts />

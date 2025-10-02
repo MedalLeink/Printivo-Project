@@ -52,22 +52,32 @@ function HeroSection() {
             </a>
           </div>
         </div>
-            <div className="flex pl-20 ">
-                <div className="w-full mt-16">
-                <h1 className="w-full font-[Ubuntu] text-7xl font-semibold text-cyan-900 mb-3">Quality Prints</h1>
-                <p className="text-2xl font-medium text-cyan-900 opacity-60 tracking-wide">Shipped to your doorstep</p>
-                <p className="font-semibold text-cyan-900 opacity-95 mt-8">What would you like to print today?</p>
+        <div className="flex pl-20 ">
+          <div className="w-full mt-16">
+            <h1 className="w-full font-[Ubuntu] text-7xl font-semibold text-cyan-900 mb-3">
+              Quality Prints
+            </h1>
+            <p className="text-2xl font-medium text-cyan-900 opacity-60 tracking-wide">
+              Shipped to your doorstep
+            </p>
+            <p className="font-semibold text-cyan-900 opacity-95 mt-8">
+              What would you like to print today?
+            </p>
 
-                <span className="w-160 flex bg-white p-8 mt-2">
-                <input type="search" placeholder="Search for Business cards, T-shirts, Mugs, etc" className="w-full text-gray-700 font-light tracking-wide" />
-                <i className="bx bx-search text-2xl text-gray-400"></i>
-                </span>
-                </div>
+            <span className="w-160 flex bg-white p-8 mt-2">
+              <input
+                type="search"
+                placeholder="Search for Business cards, T-shirts, Mugs, etc"
+                className="w-full text-gray-700 font-light tracking-wide"
+              />
+              <i className="bx bx-search text-2xl text-gray-400"></i>
+            </span>
+          </div>
 
-                <div className="ml-48 mt-24">
-                <img src={Hero_Img} alt="Hero_Image" className="w-200"  />
-                </div>
-            </div>
+          <div className="ml-48 mt-24">
+            <img src={Hero_Img} alt="Hero_Image" className="w-200" />
+          </div>
+        </div>
       </div>
     </>
   );
