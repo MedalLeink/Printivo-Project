@@ -27,7 +27,7 @@ function PopularProducts() {
         </span>
 
         {/* Product Listing */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 items-center">
 
             {/* Cards */}
           <div className=" mt-6 border border-gray-100 shadow-md shadow-gray-100 hover:shadow-xl transition-shadow duration-300 overflow-hidden">
