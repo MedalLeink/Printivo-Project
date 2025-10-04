@@ -1,5 +1,4 @@
 import React from "react";
-// import Printivo_Logo from "./../assets/printivo_logo.png"
 import Printivo_Logo from "./../assets/printivo_logo.png";
 import Hero_Img from "./../assets/hero_img.png";
 
