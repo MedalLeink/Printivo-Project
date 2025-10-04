@@ -85,7 +85,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Fourth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Simple Mugs</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -102,7 +102,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Fifth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Post Cards (A6)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -119,7 +119,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Sixth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Roll-Up Banners (Big Base)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -136,7 +136,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Seventh_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A2 Posters</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -153,7 +153,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Eighth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Trifold Brochures</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -170,7 +170,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Nineth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Landscape ID Cards</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -187,7 +187,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Tenth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Off-White T-Shirts</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -204,7 +204,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Eleventh_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A4 Branded Paper Bags</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -221,10 +221,10 @@ function PopularProducts() {
             <a href="#">
             <img src={Twelfth_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A4 Courier Bags</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦27,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
