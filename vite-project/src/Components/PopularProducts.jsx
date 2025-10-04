@@ -54,7 +54,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A5 Flyers (Single Sided)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦25,800</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -71,7 +71,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Round Stickers (3.5" Diameter)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦17,000</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -88,7 +88,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Simple Mugs</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦4,800</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -105,7 +105,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Post Cards (A6)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦22,300</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -122,7 +122,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Roll-Up Banners (Big Base)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦65,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -139,7 +139,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A2 Posters</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦71,100</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -156,7 +156,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Trifold Brochures</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦47,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -173,7 +173,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Landscape ID Cards</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦4,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -190,7 +190,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Off-White T-Shirts</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦6,000</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -207,7 +207,7 @@ function PopularProducts() {
             <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A4 Branded Paper Bags</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
-            <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
+            <h2 className="text-xl text-cyan-900 font-semibold">₦115,280</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
@@ -228,7 +228,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse A4 Courier B...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
