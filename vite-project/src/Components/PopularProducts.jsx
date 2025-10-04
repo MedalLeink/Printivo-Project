@@ -40,7 +40,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -57,7 +57,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦25,800</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse A5 Flyers (S...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -74,7 +74,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦17,000</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Round Sticke...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -91,7 +91,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦4,800</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Simple Mugs</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -108,7 +108,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦22,300</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Post Cards (A...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -125,7 +125,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦65,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Roll-Up Bann...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -142,7 +142,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦71,100</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse A2 Posters</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -159,7 +159,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦47,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Trifold Broc...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -176,7 +176,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦4,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Landscape ID...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -193,7 +193,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦6,000</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse Off-White T...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -210,7 +210,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦115,280</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse A4 Branded P...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
@@ -227,7 +227,7 @@ function PopularProducts() {
             <h2 className="text-xl text-cyan-900 font-semibold">₦27,500</h2>
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
-            <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
+            <span className="w-fit flex p-3 bg-red-400 rounded-sm items-center gap-2">
             <a href="#" className="text-white text-sm">Browse A4 Courier B...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
