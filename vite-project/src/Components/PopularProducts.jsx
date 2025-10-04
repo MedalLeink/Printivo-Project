@@ -143,7 +143,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse A2 Posters...</a>
+            <a href="#" className="text-white text-sm">Browse A2 Posters</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
