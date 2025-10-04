@@ -19,7 +19,7 @@ function PopularCategories() {
             {/* Product Listing */}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
     
-                {/* Cards */}
+                {/* Categories Cards */}
               <div className=" mt-6 border border-gray-100 shadow-md shadow-gray-100 hover:shadow-xl transition-shadow duration-300 overflow-hidden">
                 <a href="#">
                 <img src={PopularCategory_1} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />

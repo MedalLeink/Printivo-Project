@@ -51,7 +51,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Second_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">A5 Flyers (Single Sided)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
@@ -68,7 +68,7 @@ function PopularProducts() {
             <a href="#">
             <img src={Third_Product} alt="" className="w-full h-56 object-cover transform transition-transform duration-500 hover:scale-110" />
             <div className="m-4">
-            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Two-sided Business Cards</h2>
+            <h2 className="text-cyan-900 font-medium text-md tracking-wide mb-4">Round Stickers (3.5" Diameter)</h2>
             <h2 className="text-sm text-gray-500 font-semibold mb-3">STARTING AT</h2>
             <span className="flex mb-5 items-end-safe gap-1">
             <h2 className="text-xl text-cyan-900 font-semibold">₦15,100</h2>
