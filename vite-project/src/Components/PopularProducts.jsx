@@ -58,7 +58,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse A5 Flyers (S...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -75,7 +75,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Round Sticke...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -92,7 +92,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Simple Mugs</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -109,7 +109,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Post Cards (A...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -126,7 +126,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Roll-Up Bann...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -143,7 +143,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse A2 Posters...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -160,7 +160,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Trifold Broc...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -177,7 +177,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Landscape ID...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -194,7 +194,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse Off-White T...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
@@ -211,7 +211,7 @@ function PopularProducts() {
             <p className="font-medium tracking-wider text-sm text-gray-400">per 100</p>
             </span>
             <span className="w-60 flex p-3 bg-red-400 rounded-sm items-center gap-2">
-            <a href="#" className="text-white text-sm">Browse Two-sided Bu...</a>
+            <a href="#" className="text-white text-sm">Browse A4 Branded P...</a>
             <i className="bx bx-right-arrow-alt text-white text-xl"></i>
             </span>
             </div>
