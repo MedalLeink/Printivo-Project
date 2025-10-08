@@ -8,6 +8,8 @@ import PopularCategories from './Components/PopularCategories'
 function App() {
   return (
     <div className='mb-20'>
+
+      {/* main screen/component tags */}
       <NavBar />
       <HeroSection />
       <PopularProducts />
